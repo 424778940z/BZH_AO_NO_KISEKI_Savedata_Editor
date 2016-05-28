@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/ED7_Ao_Logo.jpg</file>
+        <file>img/icon.ico</file>
+        <file>img/icon_new.png</file>
+        <file>img/pic1.png</file>
+        <file>img/savedata_default.png</file>
+    </qresource>
+</RCC>
